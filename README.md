@@ -1,6 +1,6 @@
 # The Milky Way's cluster age function in light of Gaia DR2
 
-### Supplemenatry material for the [article](https://arxiv.org/abs/2006.01690)
+### Supplementary material for the [article](https://arxiv.org/abs/2006.01690)
 
 This repository contains two jupyter notebooks that allow you to reproduce the figures and analysis presented in [Anders et al. 2020, subm.](https://arxiv.org/abs/2006.01690):
 
