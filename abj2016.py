@@ -1,4 +1,6 @@
-# Getting distances from parallaxes using the simple Bayes formula by Astraatmadja & Bailer-Jones (2016)
+# Getting distances from parallaxes using the simple Bayes formula 
+# by Astraatmadja & Bailer-Jones (2016)
+#
 # Author: F. Anders (AIP)
 # Last modified: 17.04.2018
 
