@@ -13,4 +13,4 @@ Send questions and feedback to: fanders[ät]icc.ub.edu
 
 ![agedistribution](im/age-distribution_mwsc_vs_gaia_2.0kpc.png)
 
-Latest update: 19.03.2024 corrected a minor bug in the definition of T* in the Schechter fit (see Fig. 14 in Hunt & Reffert 2024 and discussion in their text) - this only affects the value given in the Schechter fit, not the quality of the fit or the science results of the paper. Thanks to [https://github.com/emilyhunt/](Emily Hunt) for finding this!
+**Latest update 19.03.2024**: corrected a minor bug in the definition of T* in the Schechter fit (see Fig. 14 in Hunt & Reffert 2024 and discussion in their text) - this only affects the value given in the Schechter fit, not the quality of the fit or the science results of the paper. Thanks to [Emily Hunt](https://github.com/emilyhunt/) for finding this!
